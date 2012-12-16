@@ -1,4 +1,4 @@
-#define ApplicationDelegate                 ((MyAppDelegate *)[[UIApplication sharedApplication] delegate])
+//#define ApplicationDelegate                 ((MyAppDelegate *)[[UIApplication sharedApplication] delegate])
 #define UserDefaults                        [NSUserDefaults standardUserDefaults]
 #define SharedApplication                   [UIApplication sharedApplication]
 #define Bundle                              [NSBundle mainBundle]
